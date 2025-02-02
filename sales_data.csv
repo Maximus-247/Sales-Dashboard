@@ -1,0 +1,51 @@
+ID,SALES_PERSON,GEOGRAPHY,PRODUCT,SALE_DATE,AMOUNT,BOXES,WEEKDAY
+1,Barr Faughny,India,Milk Bars,01-JAN-24,5000,120,1
+2,Dennison Crosswaite,USA,50% Dark Bites,02-JAN-24,6000,140,2
+3,Gunar Cockshoot,Canada,Almond Choco,03-JAN-24,4500,100,3
+4,Curtice Advani,New Zealand,Raspberry Choco,04-JAN-24,5200,130,4
+5,Kaine Padly,Australia,Mint Chip Choco,05-JAN-24,4900,110,5
+6,Barr Faughny,UK,Eclairs,06-JAN-24,4700,105,6
+7,Dennison Crosswaite,India,Drinking Coco,07-JAN-24,5100,115,7
+8,Barr Faughny,India,Milk Bars,08-JAN-24,5500,125,1
+9,Dennison Crosswaite,USA,50% Dark Bites,09-JAN-24,6200,145,2
+10,Gunar Cockshoot,Canada,Almond Choco,10-JAN-24,4600,110,3
+11,Curtice Advani,New Zealand,Raspberry Choco,11-JAN-24,5300,135,4
+12,Kaine Padly,Australia,Mint Chip Choco,12-JAN-24,4950,115,5
+13,Barr Faughny,UK,Eclairs,13-JAN-24,4800,110,6
+14,Dennison Crosswaite,India,Drinking Coco,14-JAN-24,5200,120,7
+15,Barr Faughny,India,Milk Bars,01-FEB-24,5600,130,1
+16,Dennison Crosswaite,USA,50% Dark Bites,02-FEB-24,6300,150,2
+17,Gunar Cockshoot,Canada,Almond Choco,03-FEB-24,4700,120,3
+18,Curtice Advani,New Zealand,Raspberry Choco,04-FEB-24,5400,140,4
+19,Kaine Padly,Australia,Mint Chip Choco,05-FEB-24,5000,125,5
+20,Barr Faughny,UK,Eclairs,06-FEB-24,4900,120,6
+21,Dennison Crosswaite,India,Drinking Coco,07-FEB-24,5300,130,7
+22,Barr Faughny,India,Milk Bars,01-MAR-24,5700,135,1
+23,Dennison Crosswaite,USA,50% Dark Bites,02-MAR-24,6400,155,2
+24,Gunar Cockshoot,Canada,Almond Choco,03-MAR-24,4800,125,3
+25,Curtice Advani,New Zealand,Raspberry Choco,04-MAR-24,5500,145,4
+26,Kaine Padly,Australia,Mint Chip Choco,05-MAR-24,5100,130,5
+27,Barr Faughny,UK,Eclairs,06-MAR-24,5000,125,6
+28,Dennison Crosswaite,India,Drinking Coco,07-MAR-24,5400,135,7
+29,Barr Faughny,India,Milk Bars,01-APR-24,5800,140,1
+30,Dennison Crosswaite,USA,50% Dark Bites,02-APR-24,6500,160,2
+31,Gunar Cockshoot,Canada,Almond Choco,03-APR-24,4900,130,3
+32,Curtice Advani,New Zealand,Raspberry Choco,04-APR-24,5600,150,4
+33,Kaine Padly,Australia,Mint Chip Choco,05-APR-24,5200,135,5
+34,Barr Faughny,UK,Eclairs,06-APR-24,5100,130,6
+35,Dennison Crosswaite,India,Drinking Coco,07-APR-24,5500,140,7
+36,Barr Faughny,India,Milk Bars,01-MAY-24,5900,145,1
+37,Dennison Crosswaite,USA,50% Dark Bites,02-MAY-24,6600,165,2
+38,Gunar Cockshoot,Canada,Almond Choco,03-MAY-24,5000,135,3
+39,Curtice Advani,New Zealand,Raspberry Choco,04-MAY-24,5700,155,4
+40,Kaine Padly,Australia,Mint Chip Choco,05-MAY-24,5300,140,5
+41,Barr Faughny,UK,Eclairs,06-MAY-24,5200,135,6
+42,Dennison Crosswaite,India,Drinking Coco,07-MAY-24,5600,145,7
+43,Barr Faughny,India,Milk Bars,01-JUN-24,6000,150,1
+44,Dennison Crosswaite,USA,50% Dark Bites,02-JUN-24,6700,170,2
+45,Gunar Cockshoot,Canada,Almond Choco,03-JUN-24,5100,140,3
+46,Curtice Advani,New Zealand,Raspberry Choco,04-JUN-24,5800,160,4
+47,Kaine Padly,Australia,Mint Chip Choco,05-JUN-24,5400,145,5
+48,Barr Faughny,UK,Eclairs,06-JUN-24,5300,140,6
+49,Dennison Crosswaite,India,Drinking Coco,07-JUN-24,5700,150,7
+50,Barr Faughny,India,Milk Bars,01-JUL-24,6100,155,1
