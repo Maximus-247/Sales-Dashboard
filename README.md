@@ -110,10 +110,15 @@ ________________________________________
 The sales dashboard provides critical insights into ABC Company's sales trends, regional performance, product preferences, and salesperson contributions. The data shows seasonal trends, geographical disparities, and weekday variations, which can be leveraged for targeted business strategies. The integration of Oracle SQL (GROUP BY, HAVING, and JOIN operations) and Power BI DAX calculations allows for a comprehensive sales analysis.
 ## Key findings include:
 ✅ Peak sales in January and December, with a decline in February-May.
+
 ✅ Weekday 2 has the highest sales, while Weekday 3 is the lowest.
+
 ✅ New Zealand and the USA lead in sales, while Canada and the UK underperform.
+
 ✅ 50% Dark Bites is the best-selling product, while Almond Choco is the lowest.
+
 ✅ Dennison Crosswaite is the top-performing salesperson, while Gunar Cockshoot lags.
+
 ✅ APAC region contributes the largest share of sales, while Europe has the lowest.
 ________________________________________
 ## Recommendations:
