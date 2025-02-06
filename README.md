@@ -20,18 +20,18 @@ ABC Company seeks to identify key factors influencing sales performance across d
 
 # Objectives
 1.	Analyze Sales Trends Over Time – Determine the monthly and yearly variations in total sales.
-2.	
-3.	Evaluate Sales Performance by Geography – Identify the best and worst-performing regions.
-4.	
-5.	Assess Product Performance – Determine the most and least sold products.
-6.	
-7.	Measure Sales Representative Performance – Identify top-performing salespersons.
-8.	
-9.	Understand the Impact of Weekdays on Sales – Identify which days generate the highest revenue.
-10.	
-11.	Segment High and Low Sales Performance – Understand factors contributing to sales variations.
-12.	
-13.	Improve Sales Forecasting and Planning – Use insights from the dashboard to predict future sales patterns.
+  
+2.	Evaluate Sales Performance by Geography – Identify the best and worst-performing regions.
+  
+3.	Assess Product Performance – Determine the most and least sold products.
+   
+4.	Measure Sales Representative Performance – Identify top-performing salespersons.
+   
+5.	Understand the Impact of Weekdays on Sales – Identify which days generate the highest revenue.
+    
+6.	Segment High and Low Sales Performance – Understand factors contributing to sales variations.
+    
+7.	Improve Sales Forecasting and Planning – Use insights from the dashboard to predict future sales patterns.
 
 14.	# Analysis of Results
 ________________________________________
