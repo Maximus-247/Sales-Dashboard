@@ -5,6 +5,7 @@ The sales dashboard provides a comprehensive view of ABC Company's sales perform
 ![image alt](https://github.com/Maximus-247/Sales-Dashboard/blob/main/GroupBY.png?raw=true)
 ![image alt](https://github.com/Maximus-247/Sales-Dashboard/blob/main/Having.png?raw=true)
 ![image alt](https://github.com/Maximus-247/Sales-Dashboard/blob/a5f61ea1417dc76f851b1ff95071250aa58c50e4/Join.png)
+![image alt](https://github.com/Maximus-247/Sales-Dashboard/blob/67bbb5769755737c8e8db831729f4809041221be/DAX.png)
 •	Sales data by weekday, geography, and product categories was extracted from an Oracle database using the GROUP BY function, summarizing total sales trends.
 
 •	Filtered sales insights for specific conditions were obtained using the HAVING clause in SQL, allowing a deeper analysis of total sales by product, salespersons, and time period.
