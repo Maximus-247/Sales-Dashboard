@@ -44,7 +44,6 @@ ABC Company seeks to identify key factors influencing sales performance across d
 
 •	Visualization Used: Bar chart displaying total sales by weekday.
 
-•	Recommendation: Focus marketing campaigns on low-sales weekdays to drive more revenue.
 
 3. Sales Performance by Month (Filtered using the HAVING Clause in Oracle)
    
@@ -54,7 +53,6 @@ ABC Company seeks to identify key factors influencing sales performance across d
 
 •	Visualization Used: Line chart to track sales trends over months.
 
-•	Recommendation: Implement targeted promotions and discounts in low-performing months.
 
 5. Geographic Sales Distribution (Summarized using GROUP BY in Oracle)
    
@@ -64,8 +62,6 @@ ABC Company seeks to identify key factors influencing sales performance across d
 
 •	Visualization Used: Geographical heat map.
 
-•	Recommendation: Invest in market research to understand why certain regions underperform and tailor strategies accordingly.
-
 7. Sales Performance by Product (Filtered using the HAVING Clause in Oracle)
    
 •	50% Dark Bites is the highest-selling product.
@@ -73,8 +69,6 @@ ABC Company seeks to identify key factors influencing sales performance across d
 •	Mint Chip Choco and Raspberry Choco follow closely, while Almond Choco has lower sales.
 
 •	Visualization Used: Treemap and bar chart to show total sales by product.
-
-•	Recommendation: Promote and bundle slow-moving products with popular ones to increase sales.
 
 9. Sales Performance by Salesperson (Filtered using the HAVING Clause in Oracle)
     
@@ -84,7 +78,6 @@ ABC Company seeks to identify key factors influencing sales performance across d
 
 •	Visualization Used: Horizontal bar chart ranking sales performance.
 
-•	Recommendation: Provide training for underperforming sales representatives and introduce performance-based incentives.
 
 11. Regional Sales Performance (Derived from JOIN operations in Oracle)
     
@@ -94,7 +87,6 @@ ABC Company seeks to identify key factors influencing sales performance across d
 
 •	Visualization Used: Pie chart representing regional sales distribution.
 
-•	Recommendation: Strengthen marketing and distribution channels in underperforming regions.
 
 13. High vs. Low Sales Categories (Derived from Power BI DAX functions)
     
@@ -104,7 +96,6 @@ ABC Company seeks to identify key factors influencing sales performance across d
 
 •	Visualization Used: Stacked bar chart for total sales by category and product.
 
-•	Recommendation: Conduct customer preference analysis to improve sales of low-performing products.
 ________________________________________
 ## Conclusion:
 The sales dashboard provides critical insights into ABC Company's sales trends, regional performance, product preferences, and salesperson contributions. The data shows seasonal trends, geographical disparities, and weekday variations, which can be leveraged for targeted business strategies. The integration of Oracle SQL (GROUP BY, HAVING, and JOIN operations) and Power BI DAX calculations allows for a comprehensive sales analysis.
