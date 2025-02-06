@@ -2,7 +2,6 @@
 ## Overview
 
 The sales dashboard provides a comprehensive view of ABC Company's sales performance across multiple dimensions, including geography, salespersons, products, time periods, and customer preferences. The data used for this analysis was derived from different sources and techniques:
-![image alt](https://github.com/Maximus-247/Sales-Dashboard/blob/0b90638075fab6d0f52440ddf34f4cc6cc5403c5/DAX.png)
 •	Sales data by weekday, geography, and product categories was extracted from an Oracle database using the GROUP BY function, summarizing total sales trends.
 
 •	Filtered sales insights for specific conditions were obtained using the HAVING clause in SQL, allowing a deeper analysis of total sales by product, salespersons, and time period.
